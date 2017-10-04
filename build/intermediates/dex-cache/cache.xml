@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\d5f0e1ef44614ebd1dde5b08b6d7258e385cf880\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_936776c03517da36534e39dd0b1c86949c97bfab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\3c23e848e0a5d44bfeb93f8474bc6fa24c3514f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0010a53a89659cfb6393b66db8f08223e3dff208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\bf16a7ae635d58ebd424fafbc1191ea34a1605d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afd2170097f3342fc8df1d37739f56af5161510f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\e1c1dbac743d3121ba0c4c4d0eaed2a8d0ceb8b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1d019547ca721825ca30958931cc30c04fed9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\968d344bf5ed60484d5574703c3bd97e97137db8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afccbe685e1dce32dd933ec3e35f63b4e2f83116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\schematic-annotations-0.6.3_4bedd15d0176332d2baaa0bc182279c74803c3f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\f011acba9e5372f47bea65890ea849235fb31ed8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da19f27ea5521d4e6da2dd13dfc46201d28c5ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\4801120861840f60c680b6239df7a7fbc91ecfff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f7eb5c69bf80b3ad505acb55e760bef54005117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\5bb12192ec0326a656ad8b5be688dc94951fa93f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee4f57d4553b31dc0264b7d018d27d2da3760421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\a499fde4895053a1f7bb1f6736e708bcf73fed8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf1993fc14a50df8275312b34a81effccd441a2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Squawker\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f5e0e997e48098564d56686e15ddcce316f9da7">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_04f9e9073a6ec5fe7573ce0e0dd4b32e5ac67b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\375d8f585c3d5a5fb519c61d4095ac917433951f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2001edbc9371df00e5f7417229a8b92a867d2c7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\91cc65a68432d0b05bc93ff4df7a453638fbe03d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2309d5af605979a98f30a028c7891fe0a1b09f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\91dbbad30dc15cb08c948c9058904bfdef44136b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a83c979f84ea6a1d9252b4de7d1225ad0c3a59db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\67dee7490f1adf4d17b8741eb521b463f9917d75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1137ca8824cb008f163bed7267072566c320a706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Squawker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6ffadd911089155d57e33d1d5029d7a393bc064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\608dc9715568f8db7dbd8c07d1e10bd4a7b040b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3110506e10f587c047b5d98505eebaf901d72b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\28758d3d344a2597724012a231f8b06a2b186887\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ec0c8d4fc60c716948ddeb58b26dd3eeaf4180a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\10fc0e5d76f2bbb3b77e9f1c6b9827a35ea37b7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87c2451c1a3d7ff65c17760938902762b9d60877\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\8f0c066590d55e40c90dde8dcf9a884c708e686f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c89866de8053110a4bcd5d2284fb7af3b7322ac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\4aa2530acb0ad0d6bc48cfeff302f839ccefed85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c617ad012a288a26923e84275cb2f1a21df0b2c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mahe\.android\build-cache\8a950ea7449b71af09244aa2642854b7cc9a3980\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\Squawker\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efc15678a2b3463c50d43a61427c15cf9b34e2f0\classes.dex" />
+    </item>
+
+</items>
